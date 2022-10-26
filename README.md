@@ -1,4 +1,4 @@
-# Demo Ruby Project
+# Ruby Starter Kit
 
 This project can be used as a template for the work we do in the apprenticeship program and Weirich. It is simply a Ruby project template with the `rspec` and `guard` gems.
 
